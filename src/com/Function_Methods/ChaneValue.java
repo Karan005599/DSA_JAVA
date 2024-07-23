@@ -1,4 +1,4 @@
-package com.Practice;
+package com.Function_Methods;
 
 import java.util.Arrays;
 
